@@ -81,12 +81,8 @@ AWS IAM (Permissions)
 ↓
 Amazon QuickSight (Visualization)
 
----
 
-## 📸 Dashboard Preview
 
-> _Add screenshots of your QuickSight dashboard here_
 
-Example:
-```markdown
-![Netflix Dashboard](./screenshots/dashboard.png)
+
+
